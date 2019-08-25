@@ -1,0 +1,9 @@
+/* pages/cal/cal.wxss */
+input{
+  background-color: #eca
+}
+.calResult{
+  background-color: #aaa;
+  font-size:40px;
+  color:red
+}

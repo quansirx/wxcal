@@ -1,0 +1,15 @@
+<view>
+  <form bindsubmit="calSubmit">
+  <form bindsubmit="calSubmit">
+    <input name="num1"/>
+    <text>+</text>
+    <input name="num2"/>
+    <button name="jia" form-type="submit">+=</button>
+    <button name="jian" form-type="submit">-=(未实现)</button>
+    <button name="cheng" form-type="submit">*=(未实现)</button>
+    <button name="chu" form-type="submit">/=(未实现)</button>
+    <text class="calResult">{{calResult}}</text>
+    <map></map>
+  </form>
+  </form>
+</view>
